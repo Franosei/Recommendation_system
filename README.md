@@ -1,5 +1,5 @@
 # Recommendation_system
-n this project, I utilized Scala to develop a music recommendation system using the Audioscrobbler dataset. The goal of the project was to create a personalized music recommendation engine that suggests relevant songs to users based on their listening preferences.
+In this project, I utilized Scala to develop a music recommendation system using the Audioscrobbler dataset. The goal of the project was to create a personalized music recommendation engine that suggests relevant songs to users based on their listening preferences.
 
 The Audioscrobbler dataset contains a large collection of user listening histories, including information about the songs they have listened to and their corresponding play counts. This dataset served as the foundation for building the recommendation system.
 
